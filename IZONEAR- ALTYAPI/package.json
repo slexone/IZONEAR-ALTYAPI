@@ -1,0 +1,11 @@
+{
+  "name": "izonear",
+  "version": "0.0.1",
+  "description": " discord.gg/rAGtGcA ",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "slex0ne",
+  "license": "ISC"
+}
